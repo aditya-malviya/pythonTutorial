@@ -6,4 +6,6 @@ myset = {1,2,3}
 print(myset)
 
 myset1 = {"aditya","akash","Rucha","Shubham",1,"aditya", "1"}
-print (myset1)
+myset1.add('s')
+print(myset1)
+
