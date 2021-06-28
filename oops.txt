@@ -1,0 +1,23 @@
+What is Object Oriented Programming
+1. Class
+2. Object
+3. Variables
+4. Methods.
+
+
+1. Class: Class is a logical enitity. Class is the blue print for creating object.
+2. Object: Object is a physical entity. Object is the instance or product of class.
+
+
+
+3. Variables: 
+    Three types of variables.
+    Instance variables
+    class level variables
+    local variable 
+
+4. Methods:
+    Three types of Methods
+    Instance method
+    Class method 
+    Static method
