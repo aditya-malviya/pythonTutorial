@@ -13,14 +13,20 @@ class Student:
 
     def information(self):                            # instance method
         print(self.name, self.id)
+        print (self.school)
+        
+        
+
   
     @classmethod  
     def getSchool(cls):
-        print(Student.school)
+        print(cls.school)
     
     @staticmethod
     def getSum(a,b):
         print (a+b)
+      
+
 
 s1 = Student("Aditya", 33)
 s1.information()
